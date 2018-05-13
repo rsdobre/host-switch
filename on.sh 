@@ -1,1 +1,2 @@
-Does this work?
+echo "Welcome, I'll turn on your hosts file now!"
+sudo mv /etc/bothosts /etc/hosts
