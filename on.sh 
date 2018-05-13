@@ -1,2 +1,2 @@
 echo "Welcome, I'll turn on your hosts file now!"
-sudo mv /etc/bothosts /etc/hosts
+sudo mv /etc/nothosts /etc/hosts
